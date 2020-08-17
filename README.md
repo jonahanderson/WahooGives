@@ -10,10 +10,10 @@ Our project was built using a combination of PHP, HTML, and CSS using a cloud ho
 For windows: 
 Open the file at /xampp/php/php.ini
 1. Uncomment the lines:
-2. extension=pdo_mysql
-3. extension=pgsql
-4. Restart your apache/mysql servers
-5. You should be able to properly signup and use the app at localhost/wahooGives
+  extension=pdo_mysql
+  extension=pgsql
+3. Restart your apache/mysql servers
+4. You should be able to properly signup and use the app at localhost/wahooGives
 
 For mac:
 1. Run mySQL and Apache servers
