@@ -13,7 +13,7 @@ Uncomment the lines:
 extension=pdo_mysql
 extension=pgsql
 Restart your apache/mysql servers
-You should be able to properly signup and use the app at localhost/wahooGives
+You should be able to properly signup and use the app at localhost/wahooGives**
 
 **For mac:
 Run mySQL and Apache servers
@@ -22,5 +22,5 @@ Uncomment the lines:
 extension="pgsql.so"
 extension=”pgsql.dll”
 Restart your apache/mysql servers
-You should be able to properly signup and use the app at localhost/wahooGives
+You should be able to properly signup and use the app at localhost/wahooGives**
 
