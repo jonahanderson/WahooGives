@@ -8,8 +8,8 @@ Our project was built using a combination of PHP, HTML, and CSS using a cloud ho
 **Note: Since the remote database is a Postgre database then extra steps may be required to be completed before the project can be run locally. To start, locate the php.ini file in your XAMPP folder, the path may vary based on your operating system:**
 
 For windows: 
-Open the file at /xampp/php/php.ini
-1. Uncomment the lines:
+1. Open the file at /xampp/php/php.ini
+2. Uncomment the lines:
   extension=pdo_mysql and extension=pgsql
 3. Restart your apache/mysql servers
 4. You should be able to properly signup and use the app at localhost/wahooGives
