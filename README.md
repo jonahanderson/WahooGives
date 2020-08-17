@@ -9,11 +9,11 @@ Note: Since the remote database is a Postgre database then extra steps may be re
 
 **For windows: 
 Open the file at /xampp/php/php.ini
-Uncomment the lines:
-extension=pdo_mysql
-extension=pgsql
-Restart your apache/mysql servers
-You should be able to properly signup and use the app at localhost/wahooGives**
+1. Uncomment the lines:
+**2. extension=pdo_mysql
+3. extension=pgsql**
+**4. Restart your apache/mysql servers
+5. You should be able to properly signup and use the app at localhost/wahooGives**
 
 **For mac:
 Run mySQL and Apache servers
